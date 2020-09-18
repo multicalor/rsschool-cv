@@ -1,1 +1,1 @@
-https://multicalor.github.io/rsschool-cv
+https://multicalor.github.io/rsschool-cv/cv
