@@ -11,7 +11,6 @@
     * CSS3
     * JavaScript
     * Basic React.js
-
 1. Code examples:
     * ```
     const func = (num) => {  
