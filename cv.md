@@ -10,6 +10,7 @@
  * CSS3
  * JavaScript
  * Basic React.js
+ 
 2. Code examples:
  * ```
     const func = (num) => {  
